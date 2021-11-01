@@ -1,0 +1,9 @@
+Industry, Industry_numeric
+Finance Insurance And Real Estate, 1
+Manufacturing, 2
+Transportation Communications Electric Gas And Sanitary Services, 3
+Services, 4
+Mining, 5
+Construction, 6
+Wholesale Trade, 7
+Retail Trade, 8
