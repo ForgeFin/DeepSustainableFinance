@@ -52,8 +52,8 @@ path = 'C:/Users/.../Train_test_split/'
 ## define path containing the documents / files
 bertdocs = 'C:/Users/.../files/'
 
-## define folder for saving bow models
-savemodel = 'C:/Users/.../saved_models/bow/'
+## define folder for saving tfidf models
+savemodel = 'C:/Users/.../saved_models/tfidf/'
 
 ## define file containing nltk stopwords
 stopwords = 'C:/Users/.../nltk_stopwords.txt'
