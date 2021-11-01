@@ -53,7 +53,7 @@ path = 'C:/Users/.../Train_test_split/'
 bertdocs = 'C:/Users/.../files/'
 
 ## define folder for saving bow models
-savemodel = 'C:/Users/.../saved_models/bow/'
+savemodel = 'C:/Users/.../saved_models/tfidf/'
 
 ## define file containing nltk stopwords
 stopwords = 'C:/Users/.../nltk_stopwords.txt'
