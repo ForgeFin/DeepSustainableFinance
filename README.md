@@ -1,6 +1,6 @@
 # DeepSustainableFinance
 
-This repository contains the python code used in the book XY. The according models can be found in the folder "Models". The files containing the file names and the corresponding labels, market capitalization, and industry can be found in the folder "Files". The labels are already split into a training, validation, and test set ("train_data_rs0.txt", "val_data_rs0.txt", and "test_data_rs0.txt"). The enviornmental word list is also contained in the folder "Files".
+This repository contains the python code used in the book XY. The code for each model can be found in the folder "Models". The files containing the names of the 10-K and 10-Q reports, the corresponding labels, market capitalization, and industry are in the folder "Files". The labels are already split into a training, validation, and test set (i.e., "train_data_rs0.txt", "val_data_rs0.txt", and "test_data_rs0.txt"). The environmental word list is also contained in the folder "Files".
 
 **Note**: This repository does not contain the 10-K and 10-Q filings. The pre-processed filings can be downloaded from [SRAF](https://sraf.nd.edu/data/stage-one-10-x-parse-data/). The unprocessed files can be downloaded via the [U.S. Securities and Exchange Commission](https://www.sec.gov/Archives/edgar/Feed/).
 
