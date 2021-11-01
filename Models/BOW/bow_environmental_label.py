@@ -58,7 +58,7 @@ savemodel = 'C:/Users/.../saved_models/bow/'
 ## define file containing nltk stopwords
 stopwords = 'C:/Users/.../nltk_stopwords.txt'
 
-## define according financial label
+## define according environmental label
 label = 'EP_label'    ## << HERE 'ep90', 'EP_label'
 
 ''' Set params for neural networks'''
