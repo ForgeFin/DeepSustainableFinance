@@ -319,14 +319,6 @@ else:
 label_ = label+'/'
 savemodelpath = os.path.join(savemodel,label_)
 
-epoch = 50
-batch = 32
-
-
-denser = 100
-regu = 0.1 # 0.01 fitted nicht
-drop = 0.5
-
 input_dim = sparse_x.shape[1] #1000
 industry_dim = industry_train.shape[1]
 
