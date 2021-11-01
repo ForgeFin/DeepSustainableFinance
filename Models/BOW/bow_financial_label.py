@@ -352,8 +352,7 @@ def create_model(loadweight=None):
     if loadweight is not None:
         model.load_weights(loadweight)
 
-    model.compile(loss='binary_crossentropy', ## optimization of loss function (missmatch between y predicted and y true
-                                              ## https://datascience.stackexchange.com/questions/53400/what-makes-binary-cross-entropy-a-better-choice-for-binary-classification-than-o
+    model.compile(loss='binary_crossentropy',
                   optimizer='adam', # opt
                   metrics=[TruePositives(name='true_positives'),
                           TrueNegatives(name='true_negatives'),
